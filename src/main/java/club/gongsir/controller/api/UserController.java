@@ -84,7 +84,15 @@ public class UserController {
     }
 
     @PostMapping(path = "/updatePassword")
-    public ResponseData updatePassword(@RequestParam("username")String username, @RequestParam("password")String password){
+    public ResponseData updatePassword(@RequestParam("username")String username, @RequestParam("old")String oldPass, @RequestParam("password")String password){
+        System.out.println(username);
+        System.out.println(oldPass);
+        System.out.println(password);
+        User user = userService.selectUser(username);
+        if (user!=null){
+            if (!user.getStupwd().equals(MD5Utils.md5(oldPass)))
+                return ResponseData.error().putDataValue("status",false).putDataValue("msg","原密码错误");
+        }
         password = MD5Utils.md5(password);
         int rs = userService.updatePasswordByStuNum(username, password);
         if (rs>0){

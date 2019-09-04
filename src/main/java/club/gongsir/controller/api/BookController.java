@@ -57,11 +57,13 @@ public class BookController {
      * @param id 预约信息的id，唯一
      * @return 返回操作结果的json数据
      */
-    @DeleteMapping(path = "/del")
+    @PostMapping(path = "/del")
     public ResponseData delete(@RequestParam("id")int id){
+        Book book = bookService.selectBookById(id);
         int rs = bookService.deleteBookById(id);
         if (rs>0){
-            return ResponseData.ok().putDataValue("msg","数据删除成功").putDataValue("status",true);
+            List<Book> list = bookService.selectAllByTel(book.getMobilePhone());
+            return ResponseData.ok().putDataValue("msg","数据删除成功").putDataValue("status",true).putDataValue("list",list);
         }
         return ResponseData.ok().putDataValue("msg","操作失败").putDataValue("status",false);
     }

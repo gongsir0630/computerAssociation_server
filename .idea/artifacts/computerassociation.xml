@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="computerassociation">
+    <output-path>$PROJECT_DIR$/out/artifacts/computerassociation</output-path>
+    <root id="archive" name="computerassociation.jar" />
+  </artifact>
+</component>

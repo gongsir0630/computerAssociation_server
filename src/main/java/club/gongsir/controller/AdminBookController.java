@@ -40,6 +40,8 @@ public class AdminBookController {
     @PostMapping(path = "/edit")
     public ModelAndView edit(Book book, HttpServletRequest request){
         logger.info("book信息:{}",book);
+        if (book.getStatusText().equals("已处理"))
+            book.setStatusColor("green");
         int rs = bookService.updateBook(book);
         if (rs>0){
             request.getSession().setAttribute("msg","数据处理成功");

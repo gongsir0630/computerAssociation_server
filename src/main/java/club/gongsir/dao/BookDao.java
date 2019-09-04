@@ -29,6 +29,6 @@ public interface BookDao {
     @Select("select count(*) from reservation_information_table;")
     public Integer getAllCount();
 
-    @Update("update reservation_information_table set process_time=#{processTime},process_result=#{processResult},status_text=#{statusText}  where id=#{id};")
+    @Update("update reservation_information_table set process_time=#{processTime},process_result=#{processResult},status_text=#{statusText},status_color=#{statusColor} where id=#{id};")
     public int updateBook(Book book);
 }

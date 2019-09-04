@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="computerAssociation" />
+        <module name="computerassociation" />
       </profile>
     </annotationProcessing>
   </component>
