@@ -271,6 +271,7 @@ public class AdminController {
     @PostMapping(path = "/user/edit")
     public ModelAndView editUser(User user, HttpServletRequest request){
         ModelAndView mv = new ModelAndView();
+        user.setStupwd(MD5Utils.md5(user.getStupwd()));
         System.out.println(user);
         int rs = userService.updateAllUserInfo(user);
         if (rs>0){

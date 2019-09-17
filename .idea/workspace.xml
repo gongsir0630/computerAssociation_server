@@ -2,33 +2,26 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="computerassociation:war exploded" />
+      <artifact name="computerassociation:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41dae081-f4a6-4fb4-97e4-8f9c0627fe07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/computerassociation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/computerassociation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/16bebaf4-b1ef-4e49-9a20-7c6d1626c0c1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/16bebaf4-b1ef-4e49-9a20-7c6d1626c0c1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IntelliLang.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/computerassociation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/16bebaf4-b1ef-4e49-9a20-7c6d1626c0c1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/AdminBookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/AdminBookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/api/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/api/BookController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/api/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/api/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/gongsir/dao/BookDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/gongsir/dao/BookDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/club/gongsir/controller/AdminBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/club/gongsir/controller/AdminBookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/club/gongsir/controller/api/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/club/gongsir/controller/api/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/club/gongsir/controller/api/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/club/gongsir/controller/api/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/club/gongsir/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/club/gongsir/dao/BookDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/AdminBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/AdminBookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/api/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/api/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/api/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/api/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/dao/BookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/dao/BookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/computerAssociation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/club/gongsir/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/club/gongsir/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/computerAssociation.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/META-INF/computerAssociation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/computerAssociation/static/img/1566866228737banner1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/computerAssociation/static/img/1566866268502banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/computerAssociation.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +93,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -164,92 +159,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat8">
-    <configuration name="DateTimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="club.gongsir.utils.DateTimeTest" />
-      <module name="computerAssociation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="club.gongsir.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdminDaoTest.getSearchAdminTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="computerAssociation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="club.gongsir.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="club.gongsir.dao" />
-      <option name="MAIN_CLASS_NAME" value="club.gongsir.dao.AdminDaoTest" />
-      <option name="METHOD_NAME" value="getSearchAdminTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdminDaoTest.getSearchCountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="computerAssociation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="club.gongsir.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="club.gongsir.dao" />
-      <option name="MAIN_CLASS_NAME" value="club.gongsir.dao.AdminDaoTest" />
-      <option name="METHOD_NAME" value="getSearchCountTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AdminProviderTest.getAllAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="computerAssociation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="club.gongsir.dao.sql.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="club.gongsir.dao.sql" />
-      <option name="MAIN_CLASS_NAME" value="club.gongsir.dao.sql.AdminProviderTest" />
-      <option name="METHOD_NAME" value="getAllAdmin" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BookDaoTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="computerAssociation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="club.gongsir.dao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="club.gongsir.dao" />
-      <option name="MAIN_CLASS_NAME" value="club.gongsir.dao.BookDaoTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Tomcat8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat8" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/computerassociation_war_exploded/" />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/computerassociation_war/" />
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="computerassociation:war exploded">
+        <artifact name="computerassociation:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/computerassociation_war_exploded" />
+            <option name="CONTEXT_PATH" value="/computerassociation_war" />
           </settings>
         </artifact>
       </deployment>
@@ -346,27 +264,10 @@
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
           <artifact name="computerAssociation:war" />
-          <artifact name="computerassociation:war exploded" />
+          <artifact name="computerassociation:war" />
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.DateTimeTest" />
-      <item itemvalue="JUnit.AdminProviderTest.getAllAdmin" />
-      <item itemvalue="JUnit.AdminDaoTest.getSearchAdminTest" />
-      <item itemvalue="JUnit.AdminDaoTest.getSearchCountTest" />
-      <item itemvalue="JUnit.BookDaoTest.test1" />
-      <item itemvalue="Tomcat Server.Tomcat8" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.DateTimeTest" />
-        <item itemvalue="JUnit.BookDaoTest.test1" />
-        <item itemvalue="JUnit.AdminDaoTest.getSearchCountTest" />
-        <item itemvalue="JUnit.AdminDaoTest.getSearchAdminTest" />
-        <item itemvalue="JUnit.AdminProviderTest.getAllAdmin" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="allServicesViewState">
@@ -404,6 +305,13 @@
       <workItem from="1567495593221" duration="3769000" />
       <workItem from="1567558263144" duration="4744000" />
       <workItem from="1567581788014" duration="10000" />
+      <workItem from="1567606583181" duration="822000" />
+      <workItem from="1567658772888" duration="14000" />
+      <workItem from="1567669970989" duration="63000" />
+      <workItem from="1567822153241" duration="2834000" />
+      <workItem from="1568107768616" duration="856000" />
+      <workItem from="1568163733289" duration="31000" />
+      <workItem from="1568163810085" duration="97000" />
     </task>
     <servers />
   </component>
