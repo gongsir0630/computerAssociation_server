@@ -7,21 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41dae081-f4a6-4fb4-97e4-8f9c0627fe07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/IntelliLang.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/computerassociation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/16bebaf4-b1ef-4e49-9a20-7c6d1626c0c1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/club/gongsir/controller/AdminController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/computerAssociation.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/club/gongsir/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/club/gongsir/controller/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/META-INF/computerAssociation.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/computerAssociation/WEB-INF/classes/club/gongsir/controller/AdminController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/static/img/1566866228737banner1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/computerAssociation/static/img/1566866268502banner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/computerAssociation.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -312,6 +302,7 @@
       <workItem from="1568107768616" duration="856000" />
       <workItem from="1568163733289" duration="31000" />
       <workItem from="1568163810085" duration="97000" />
+      <workItem from="1568947872915" duration="573000" />
     </task>
     <servers />
   </component>

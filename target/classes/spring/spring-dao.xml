@@ -32,6 +32,12 @@
         <property name="checkoutTimeout" value="10000"/>
         <!-- 当获取连接失败重试次数 -->
         <property name="acquireRetryAttempts" value="2"/>
+<!--        不检查所有链接的有效性，会影响性能-->
+        <property name="testConnectionOnCheckout" value="${jdbc.c3p0.testConnectionOnCheckout}"/>
+<!--        异步检测连接的有效性-->
+        <property name="testConnectionOnCheckin" value="${jdbc.c3p0.testConnectionOnCheckin}"/>
+<!--        检查c3p0的有效性的周期时间-->
+        <property name="idleConnectionTestPeriod" value="${jdbc.c3p0.idleConnectionTestPeriod}"/>
     </bean>
 
     <!-- 3.配置SqlSessionFactory对象 -->
