@@ -34,7 +34,7 @@ To change this template use File | Settings | File Templates.
 							</a>
 						</li>
 						<li class="layui-nav-item layui-hide-xs" lay-unselect>
-							<a href="修改为前台主页地址" target="_blank" title="前台">
+							<a href="http://gongsir.club:8080/views" target="_blank" title="前台">
 								<i class="layui-icon layui-icon-website"></i>
 							</a>
 						</li>
@@ -201,9 +201,9 @@ To change this template use File | Settings | File Templates.
 									<dd>
 										<a lay-href="${path}/admin/book/book">预约信息</a>
 									</dd>
-									<dd>
-										<a lay-href="2">book-2</a>
-									</dd>
+<%--									<dd>--%>
+<%--										<a lay-href="2">book-2</a>--%>
+<%--									</dd>--%>
 								</dl>
 							</li>
 							<li data-name="set" class="layui-nav-item">
@@ -235,10 +235,10 @@ To change this template use File | Settings | File Templates.
 								</a>
 								<dl class="layui-nav-child">
 									<dd>
-										<a href="https://www.swpu.edu.cn">西南石油大学</a>
+										<a href="https://www.swpu.edu.cn" target="_blank">西南石油大学</a>
 									</dd>
 									<dd>
-										<a href="">西南石油大学校团委</a>
+										<a href="http://gongsir.club:8080/views" target="_blank">西柚计算机协会前台</a>
 									</dd>
 								</dl>
 							</li>

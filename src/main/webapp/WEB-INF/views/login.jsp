@@ -31,6 +31,7 @@
 				<div class="layadmin-user-login-box layadmin-user-login-header">
 					<h2>computerAssociation</h2>
 					<p>西南石油大学计算机协会后台管理系统</p>
+					<!-- 交互信息提示 -->
 					<p style="color: red">${msg}</p>
 				</div>
 				<form class="layadmin-user-login-box layadmin-user-login-body layui-form" action="${path}/admin/login" method="post">
@@ -70,10 +71,10 @@
 			<!-- 登录页脚显示 -->
 			<div class="layui-trans layadmin-user-login-footer">
 
-				<p>© 2019 <a href="http:www.gongsir.club" target="_blank">gongsir.club&nbsp;四川成都</a></p>
+				<p>© 2019 <a href="http://www.gongsir.club/computerAssociation" target="_blank">gongsir.club&nbsp;四川成都</a></p>
 				<p>
 					<span><a href="https://github.com/gongsir0630" target="_blank">Github</a></span>
-					<span><a href="http:www.gongsir.club" target="_blank">计算机协会前台</a></span>
+					<span><a href="http://www.gongsir.club:8080/views" target="_blank">计算机协会前台</a></span>
 					<span><a href="https://www.swpu.edu.cn/" target="_blank">西柚官网</a></span>
 				</p>
 			</div>

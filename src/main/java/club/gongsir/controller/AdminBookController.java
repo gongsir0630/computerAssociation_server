@@ -22,7 +22,7 @@ import java.util.Map;
 @RequestMapping(path = "/admin/book")
 public class AdminBookController {
 
-    @SuppressWarnings("unused")
+
     private static Logger logger = LoggerFactory.getLogger(AdminBookController.class);
 
     @Autowired
